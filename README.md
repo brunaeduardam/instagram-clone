@@ -1,3 +1,3 @@
 # instagram-clone
 
-Este código é do bootcamp HTML Developer - #Digital Innovation One
+Este código é do bootcamp HTML Developer - Digital Innovation One
